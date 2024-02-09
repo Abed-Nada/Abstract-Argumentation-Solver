@@ -9,7 +9,7 @@ The goal of the project is to implement a software solution to solve the followi
 - Determine whether a given argument a ∈ A belongs to some stable extension of an Argumentation Framework F = 〈A, R〉.
 - Determine whether a given argument a ∈ A belongs to each stable extension of an Argumentation Framework F = 〈A, R〉.
 
-## Contributors
-
-- [@RB-Younes](https://github.com/RB-Younes)
+## Collaborators
 - [@NaaaaaaaaaaDaa](https://github.com/NaaaaaaaaaaDaa)
+- [@RB-Younes](https://github.com/RB-Younes)
+
